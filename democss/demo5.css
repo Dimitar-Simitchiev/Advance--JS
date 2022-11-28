@@ -1,0 +1,52 @@
+.center {
+    text-align: center;
+   
+  }
+p1{
+    font-style: italic;
+    color:rgb(11, 11, 11);
+   
+}
+button{ 
+    width: 10em;
+    height: 5ex;
+    font-style: italic;
+    background-color: rgba(16, 233, 233, 0.663);
+    border: 2px solid rgb(165, 242, 12);
+    border-radius: 10px;
+    font-weight: bold;
+    color: rgb(19, 19, 19);
+    cursor: pointer;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button:hover {
+    background-color: bisque;
+}
+div{
+    color: rgb(1, 1, 1);
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+input[type=button2] {
+    width: 10em;
+    height: 5ex;
+    font-style: italic;
+    background-color: rgba(233, 16, 99, 0.663);
+    border: 2px solid rgb(165, 242, 12);
+    border-radius: 10px;
+    font-weight: bold;
+    color: rgb(19, 19, 19);
+    cursor: pointer;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  body {
+    
+  background-color: rgb(8, 252, 163);
+}
+h1{
+    color: brown;
+}
+
+
+
